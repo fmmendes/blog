@@ -1,3 +1,14 @@
+# References
+
+- [Step by Step Tutorial](https://jekyllrb.com/docs/step-by-step/01-setup/)
+- [Jekyll Cheat Sheet](https://learn.cloudcannon.com/jekyll-cheat-sheet/)
+- [Liquid](https://shopify.github.io/liquid/)
+- [Liquid template language reference](https://shopify.dev/docs/themes/liquid/reference)
+- [About GitHub Pages and Jekyll](https://docs.github.com/en/github/working-with-github-pages/about-github-pages-and-jekyll)
+- [Setting up a GitHub Pages site with Jekyll](https://docs.github.com/en/github/working-with-github-pages/setting-up-a-github-pages-site-with-jekyll)
+- [Tailwind CSS docs](https://tailwindcss.com/docs)
+
+
 # Development
 
 ``` bash
