@@ -1,6 +1,4 @@
-- name: Home
-  link: /
 - name: Blog
-  link: /blog
+  link: /
 - name: About
   link: /about

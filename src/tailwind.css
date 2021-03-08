@@ -5,4 +5,8 @@
   @apply px-4 py-2 bg-blue-600 text-white rounded;
 }
 
+.excerpt-container, .excerpt-container > p {
+  @apply md:col-start-3 md:col-span-6 xl:col-span-7 ml-9 md:ml-0
+}
+
 @tailwind utilities;
