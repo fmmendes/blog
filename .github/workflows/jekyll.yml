@@ -42,7 +42,7 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Setup Tailwind
-        run: npx tailwindcss-cli@latest build ./src/tailwind.css -o ./assets/css/tailwind.css
+        run: npx tailwindcss-cli@latest build -i ./src/tailwind.css -o ./assets/css/tailwind.css
         env:
           NODE_ENV: production
 
